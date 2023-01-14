@@ -12,4 +12,5 @@ Víctor Giménez Royo
 Adrian Remolar
 Cristhian Dávila
 Andres Esteo
+Eduardo Vallejo
 
