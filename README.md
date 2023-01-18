@@ -13,4 +13,5 @@ Adrian Remolar
 Cristhian Dávila
 Andres Esteo
 Eduardo Vallejo
+Juan David Salazar
 
